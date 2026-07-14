@@ -12,35 +12,6 @@ The goal is to build a strong foundation in Java, write clean and organized code
 
 ### Java
 - [ ] Hello World
-- [ ] Variables
-- [ ] Data Types
-- [ ] User Input
-- [ ] Operators
-- [ ] Type Casting
-- [ ] Conditional Statements
-- [ ] Loops
-- [ ] Arrays
-- [ ] Methods
-- [ ] Strings
-- [ ] Object-Oriented Programming
-- [ ] Exception Handling
-- [ ] Collections Framework
-- [ ] File Handling
-- [ ] Multithreading
-- [ ] Java 8 Features
-
-### Data Structures & Algorithms
-- [ ] Arrays
-- [ ] Strings
-- [ ] Linked Lists
-- [ ] Stacks
-- [ ] Queues
-- [ ] Trees
-- [ ] Graphs
-- [ ] Recursion
-- [ ] Backtracking
-- [ ] Greedy Algorithms
-- [ ] Dynamic Programming
 
 ## Repository Structure
 
@@ -48,6 +19,10 @@ The goal is to build a strong foundation in Java, write clean and organized code
 Java-DSA-Journey/
 │
 ├── Java-Basics/
+   ├──HelloWorld.java
+   ├──
+   ├──
+   ├── 
 ├── OOP/
 ├── Collections/
 ├── DSA/
