@@ -1,2 +1,64 @@
-# Java-DSA-Journey
-My journey from Java basics to advanced DSA with daily updates.
+# Java DSA Journey ☕
+
+Welcome to my Java and Data Structures & Algorithms learning repository.
+
+## About
+
+This repository documents my journey of learning Java from scratch and strengthening my problem-solving skills through Data Structures and Algorithms.
+
+The goal is to build a strong foundation in Java, write clean and organized code, and consistently practice DSA problems.
+
+## Learning Roadmap
+
+### Java
+- [ ] Hello World
+- [ ] Variables
+- [ ] Data Types
+- [ ] User Input
+- [ ] Operators
+- [ ] Type Casting
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Arrays
+- [ ] Methods
+- [ ] Strings
+- [ ] Object-Oriented Programming
+- [ ] Exception Handling
+- [ ] Collections Framework
+- [ ] File Handling
+- [ ] Multithreading
+- [ ] Java 8 Features
+
+### Data Structures & Algorithms
+- [ ] Arrays
+- [ ] Strings
+- [ ] Linked Lists
+- [ ] Stacks
+- [ ] Queues
+- [ ] Trees
+- [ ] Graphs
+- [ ] Recursion
+- [ ] Backtracking
+- [ ] Greedy Algorithms
+- [ ] Dynamic Programming
+
+## Repository Structure
+
+```
+Java-DSA-Journey/
+│
+├── Java-Basics/
+├── OOP/
+├── Collections/
+├── DSA/
+└── README.md
+```
+
+## Progress
+
+- 🚀 Repository created.
+- ⏳ Starting with **Hello World**.
+
+---
+
+⭐ Every commit represents a new concept learned or a problem solved.
