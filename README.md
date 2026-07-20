@@ -12,7 +12,8 @@ The goal is to build a strong foundation in Java, write clean and organized code
 
 ### Java
 - [ ] Hello World
-- [ ] StoreVariables.java
+- [ ] Store Variables
+- [ ] Data Types
 
 ## Repository Structure
 
@@ -22,8 +23,22 @@ Java-DSA-Journey/
 ├── Java-Basics/
    ├──HelloWorld.java
    ├──StoreVariables.java
+   ├──DataType.java
    ├──
-   ├── 
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
+   ├──
 ├── OOP/
 ├── Collections/
 ├── DSA/
@@ -35,6 +50,7 @@ Java-DSA-Journey/
 - 🚀 Repository created.
 - ⏳ Starting with **Hello World**.
 - 🔡 Learned to **Store Variables.**
+- 📊 Learned different forms of **Data Types**
 
 ---
 
