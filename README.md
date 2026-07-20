@@ -34,6 +34,7 @@ Java-DSA-Journey/
 
 - 🚀 Repository created.
 - ⏳ Starting with **Hello World**.
+- 🔡 Learned to **Store Variables.**
 
 ---
 
