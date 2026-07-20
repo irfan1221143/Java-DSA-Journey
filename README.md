@@ -12,6 +12,7 @@ The goal is to build a strong foundation in Java, write clean and organized code
 
 ### Java
 - [ ] Hello World
+- [ ] StoreVariables.java
 
 ## Repository Structure
 
@@ -20,7 +21,7 @@ Java-DSA-Journey/
 │
 ├── Java-Basics/
    ├──HelloWorld.java
-   ├──
+   ├──StoreVariables.java
    ├──
    ├── 
 ├── OOP/
