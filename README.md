@@ -14,6 +14,7 @@ The goal is to build a strong foundation in Java, write clean and organized code
 - [ ] Hello World
 - [ ] Store Variables
 - [ ] Data Types
+- [ ] Arithmetic Operations
 
 ## Repository Structure
 
@@ -24,7 +25,7 @@ Java-DSA-Journey/
    ├──HelloWorld.java
    ├──StoreVariables.java
    ├──DataType.java
-   ├──
+   ├──ArithmeticOperation.java
    ├──
    ├──
    ├──
@@ -51,6 +52,7 @@ Java-DSA-Journey/
 - ⏳ Starting with **Hello World**.
 - 🔡 Learned to **Store Variables.**
 - 📊 Learned different forms of **Data Types**
+- 🧮 Did some programme for addition,substration,multiplication,division for **Arithmetic Operations**
 
 ---
 
