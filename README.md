@@ -15,6 +15,7 @@ The goal is to build a strong foundation in Java, write clean and organized code
 - [ ] Store Variables
 - [ ] Data Types
 - [ ] Arithmetic Operations
+- [ ] Relational Operators
 
 ## Repository Structure
 
@@ -26,7 +27,7 @@ Java-DSA-Journey/
    ├──StoreVariables.java
    ├──DataType.java
    ├──ArithmeticOperation.java
-   ├──
+   ├──RelationalOperators.java
    ├──
    ├──
    ├──
@@ -53,6 +54,7 @@ Java-DSA-Journey/
 - 🔡 Learned to **Store Variables.**
 - 📊 Learned different forms of **Data Types**
 - 🧮 Did some programme for addition,substration,multiplication,division for **Arithmetic Operations**
+- ⛓️ Learned to relate 2 numbers which is greater or lesser as **Reational Operators**
 
 ---
 
