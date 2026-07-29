@@ -1,4 +1,4 @@
-//1
+//Relational Operator 1
 class learn
 {
     public static void main(String a[])
@@ -20,7 +20,7 @@ class learn
     }
 }
 
-//2
+//Relational Operator 2
 class learn
 {
     public static void main(String a[])
