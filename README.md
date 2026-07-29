@@ -16,6 +16,8 @@ The goal is to build a strong foundation in Java, write clean and organized code
 - [ ] Data Types
 - [ ] Arithmetic Operations
 - [ ] Relational Operators
+- [ ] Switch Statement
+- [ ] Ternary Operator
 
 ## Repository Structure
 
@@ -23,13 +25,13 @@ The goal is to build a strong foundation in Java, write clean and organized code
 Java-DSA-Journey/
 │
 ├── Java-Basics/
-   ├──HelloWorld.java
-   ├──StoreVariables.java
-   ├──DataType.java
-   ├──ArithmeticOperation.java
-   ├──RelationalOperators.java
-   ├──
-   ├──
+   ├──01_HelloWorld.java
+   ├──02_StoreVariables.java
+   ├──03_DataType.java
+   ├──04_ArithmeticOperation.java
+   ├──05_RelationalOperators.java
+   ├──06_SwitchStatement.java
+   ├──07_TernaryOperator.java
    ├──
    ├──
    ├──
