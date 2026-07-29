@@ -25,14 +25,16 @@ class learn
 {
     public static void main(String a[])
     {
-        int num1 = 7;
-        int num2 = 5;
-       //boolean compare1 = num1>num2;
-        if(num1>num2)
-        System.out.println(num1 + " is greater");
-        else if(num1<num2)
-        System.out.println(num2 + " is greater");
+        int num1 = 13;
+        int num2 = 10;
+        int num3 = 8;
+        if(num1>num2 && num1>num3)
+            System.out.println(num1 + " is greater");
+        else if(num2>num1 && num2>num3)
+            System.out.println(num2 + " is greater");
+        else if(num3>num1 && num3>num2)
+            System.out.println(num3 + " is greater");
         else
-        System.out.println("Both are Equal");
+            System.out.println("All are equal");
     }
 }
