@@ -1,3 +1,4 @@
+//1
 class learn
 {
     public static void main(String a[])
@@ -16,5 +17,22 @@ class learn
         System.out.println(greater2);
         System.out.println(lesser2);
         System.out.println(equal);
+    }
+}
+
+//2
+class learn
+{
+    public static void main(String a[])
+    {
+        int num1 = 7;
+        int num2 = 5;
+       //boolean compare1 = num1>num2;
+        if(num1>num2)
+        System.out.println(num1 + " is greater");
+        else if(num1<num2)
+        System.out.println(num2 + " is greater");
+        else
+        System.out.println("Both are Equal");
     }
 }
