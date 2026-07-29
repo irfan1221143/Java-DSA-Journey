@@ -11,6 +11,7 @@ class learn
             
             i++;
         }
+    System.out.println("Bye");
     }
 }
 
@@ -31,5 +32,6 @@ class learn
             }
             i++;
         }
+    System.out.println("Bye")
     }
 }
