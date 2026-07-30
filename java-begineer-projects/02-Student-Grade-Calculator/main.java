@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class projects
 {
     public static void main(String a[])
