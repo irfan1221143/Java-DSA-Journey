@@ -17,7 +17,7 @@ class projects
         int marks5 = sc.nextInt();
 
         int total = marks1 + marks2 + marks3 + marks4 + marks5;
-        double percentage = (total / 5);
+        double percentage = (total / 5.0);
 
         System.out.println("=================================");
         System.out.println("       STUDENT REPORT CARD");
