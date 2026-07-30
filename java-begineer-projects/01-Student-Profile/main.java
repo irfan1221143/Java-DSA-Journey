@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentProfile
+class projects
 {
     public static void main(String a[])
     {
