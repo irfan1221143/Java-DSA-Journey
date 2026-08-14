@@ -1,7 +1,7 @@
 //While Loop 1
-class learn
+public class Learn
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int i = 1;
 
@@ -16,9 +16,9 @@ class learn
 }
 
 //While Loop 2
-class learn
+public class Learn
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int i = 1;
         while(i<=5)
