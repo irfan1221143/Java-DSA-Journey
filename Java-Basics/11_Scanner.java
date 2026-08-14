@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-class learn
+public class Learn
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter: ");
