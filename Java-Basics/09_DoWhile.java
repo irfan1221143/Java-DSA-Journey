@@ -1,6 +1,6 @@
-class learn
+public class Learn
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int i = 1;
         do
