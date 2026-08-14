@@ -32,7 +32,7 @@ The goal is to build a strong foundation in Java, write clean and organized code
 ```
 Java-DSA-Journey/
 │
-├── Java-Basics/
+├── 01_Java-Basics/
    ├──01_HelloWorld.java
    ├──02_StoreVariables.java
    ├──03_DataType.java
@@ -44,7 +44,7 @@ Java-DSA-Journey/
    ├──09_DoLoop.java
    ├──10_ForLoop.java
    ├──11_Scanner.java
-├── OOP/
+├── 02_OOP/
    ├──01_ClassAndObject.java
    ├──02_Methods.java
    ├──
@@ -52,8 +52,12 @@ Java-DSA-Journey/
    ├──
    ├──
    ├──
-├── Collections/
-├── DSA/
+├── java-beginner-projects
+   ├──01-Student-Profile
+   ├──02-Student-Grade-Calculator
+   ├──03-Simple-Calculator
+   ├──
+   ├──
 └── README.md
 ```
 
