@@ -1,7 +1,7 @@
 //Relational Operator 1
-class learn
+public class Learn
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int num1 = 7;
         int num2 = 5;
@@ -21,9 +21,9 @@ class learn
 }
 
 //Relational Operator 2
-class learn
+public class Learn
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int num1 = 13;
         int num2 = 10;
