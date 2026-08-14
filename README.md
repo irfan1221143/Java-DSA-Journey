@@ -67,7 +67,7 @@ Java-DSA-Journey/
 - ⏳ Starting with **Hello World**.
 - 🔡 Learned to **Store Variables.**
 - 📊 Learned different forms of **Data Types**
-- 🧮 Did some programme for addition,substration,multiplication,division for **Arithmetic Operations**
+- 🧮 Did some programme for addition, subtraction, multiplication, division for **Arithmetic Operations**
 - ⛓️ Learned to relate 2 numbers which is greater or lesser as **Reational Operators**
 - 🎛️ Learned the Java **switch statement** and how to use *case*, *break*, and *default* for menu-based programs.
 - ⚒️ Learned the Java **ternary operator** for making simple conditional decisions in a single line.
