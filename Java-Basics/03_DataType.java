@@ -1,6 +1,6 @@
 public class Learn
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int num1 = 9;
         byte by = 46;
