@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Projects
+public class StudentGradeCalculator
 {
     public static void main(String args[])
     {
