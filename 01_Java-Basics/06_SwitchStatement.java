@@ -1,4 +1,4 @@
-public class Learn
+public class SwitchStatement
 {
     public static void main(String args[])
     {
