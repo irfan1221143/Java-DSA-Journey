@@ -4,7 +4,7 @@ class Student
     int age;
 }
 
-public class Learn
+public class ClassAndObjects
 {
     public static void main(String args[])
     {
