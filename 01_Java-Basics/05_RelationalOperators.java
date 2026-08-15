@@ -1,5 +1,5 @@
 //Relational Operator 1
-public class Learn
+public class RelationalOperators
 {
     public static void main(String args[])
     {
@@ -21,7 +21,7 @@ public class Learn
 }
 
 //Relational Operator 2
-public class Learn
+public class RelationalOperators
 {
     public static void main(String args[])
     {
