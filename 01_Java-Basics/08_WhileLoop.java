@@ -1,5 +1,5 @@
 //While Loop 1
-public class Learn
+public class WhileLoop
 {
     public static void main(String args[])
     {
@@ -16,7 +16,7 @@ public class Learn
 }
 
 //While Loop 2
-public class Learn
+public class WhileLoop
 {
     public static void main(String args[])
     {
