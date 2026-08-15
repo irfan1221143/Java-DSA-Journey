@@ -22,6 +22,8 @@ The goal is to build a strong foundation in Java, write clean and organized code
 - [ ] Do Loop
 - [ ] For Loop
 - [ ] Scanner
+- [ ] Array Basics
+- [ ] Two Dimension Array
 
 ### OOP
 - [ ] Class and Object
@@ -44,6 +46,8 @@ Java-DSA-Journey/
    ├──09_DoLoop.java
    ├──10_ForLoop.java
    ├──11_Scanner.java
+   ├──12_ArrayBasics.java
+   ├──13_TwoDArray.java
 ├── 02_OOP/
    ├──01_ClassAndObject.java
    ├──02_Methods.java
@@ -75,6 +79,8 @@ Java-DSA-Journey/
 - 🔁 Learned how the **do-while loop** executes the code at least once before checking the condition.
 - 🔃 Learned how to use the **for loop** for controlled and repeated execution with *initialisation*, *condition*, and *update*.
 - 🔢 Learned to take user input in Java using the **Scanner class**.
+- [] Learned to Create an **array**.
+- [] Learned how to create **two dimension array**.
 
 - 📹 Learned the basics of **classes** as blueprints and **objects** as instances of classes.
 - ☎️ Learned how to create and *call* methods with parameters and *return* values.
