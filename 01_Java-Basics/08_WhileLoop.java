@@ -1,4 +1,4 @@
-//While Loop 1
+//While Loop
 public class WhileLoop
 {
     public static void main(String args[])
@@ -15,7 +15,7 @@ public class WhileLoop
     }
 }
 
-//While Loop 2
+//Nested While Loop
 public class WhileLoop
 {
     public static void main(String args[])
