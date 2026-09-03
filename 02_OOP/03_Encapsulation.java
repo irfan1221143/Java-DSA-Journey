@@ -1,27 +1,27 @@
 class Student
 {
-    private String name;
-    private int age;
+    private String Name;
+    private int Age;
 
-    public String getname()
+    public String getName()
     {
         return name;
     }
     
-    public void setname(String name)
+    public void setName(String Name)
     {
-        this.name = name;
+        this.Name = Name;
     }
     
-    public int getage()
+    public int getAge()
     {
-        return age;
+        return Age;
     }
 
-    public void setage(int age) {
-        if (age > 0) 
+    public void setAge(int Age) {
+        if (Age > 0) 
         {
-            this.age = age;
+            this.Age = Age;
         }
     }
 }
@@ -32,10 +32,10 @@ public class learn
     {
         Student s = new Student();
 
-        s.setname("Alice");
-        s.setage(20);
+        s.setName("Alice");
+        s.setAge(20);
 
-        System.out.println("Name: " + s.getname());
-        System.out.println("Age: " + s.getage());
+        System.out.println("Name: " + s.getName());
+        System.out.println("Age: " + s.getAge());
     }
 }
