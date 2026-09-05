@@ -174,7 +174,7 @@ class StudentManagementSystem
     }
 }
 
-public class Projects
+public class StudentManagement
 {
     public static void main(String args[])
     {
