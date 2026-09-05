@@ -48,11 +48,14 @@ Java-DSA-Journey/
    ├──11_Scanner.java
    ├──12_ArrayBasics.java
    ├──13_TwoDArray.java
+   ├──14_ThreeDArray.java
+   ├──15_String.java
+   ├──
 ├── 02_OOP/
    ├──01_ClassAndObject.java
    ├──02_Methods.java
-   ├──
-   ├──
+   ├──03_Encapsulation.java
+   ├──04_Constructor.java
    ├──
    ├──
    ├──
@@ -60,7 +63,7 @@ Java-DSA-Journey/
    ├──01-Student-Profile
    ├──02-Student-Grade-Calculator
    ├──03-Simple-Calculator
-   ├──
+   ├──04-Student-Management-System
    ├──
 └── README.md
 ```
@@ -81,9 +84,13 @@ Java-DSA-Journey/
 - 🔢 Learned to take user input in Java using the **Scanner class**.
 - [] Learned to Create an **array**.
 - [] Learned how to create **two dimension array**.
+- [] Learned how to create **three dimension array**.
+- 🪢 Learned about **String**.
 
 - 📹 Learned the basics of **classes** as blueprints and **objects** as instances of classes.
 - ☎️ Learned how to create and *call* methods with parameters and *return* values.
+- 🏕️ Learned **Encapsulation**.
+- 🚧 Learned **Constructor**.
 
 ---
 
