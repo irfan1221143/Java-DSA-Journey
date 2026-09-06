@@ -24,7 +24,7 @@ class AdvanceCalculator extends Calculator
     }
 }
 
-public class Learn
+public class Inheritance
 {
     public static void main(String args[])
     {
