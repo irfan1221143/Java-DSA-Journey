@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class learn
+public class ThreeDArray
 {
     public static void main(String args[])
     {
