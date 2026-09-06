@@ -26,7 +26,7 @@ class Student
     }
 }
 
-public class learn
+public class Encapsulation
 {
     public static void main(String args[])
     {
