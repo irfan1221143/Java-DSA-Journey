@@ -28,7 +28,7 @@ class B extends A
     }
 }
 
-public class ThisAAndSuperMethod
+public class ThisAndSuperMethod
 {
     public static void main(String args[])
     {
