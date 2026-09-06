@@ -18,7 +18,7 @@ class Student
     }
 }
 
-public class practice
+public class Constructor
 {
     public static void main(String args[])
     {
