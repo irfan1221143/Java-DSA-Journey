@@ -1,0 +1,37 @@
+class A
+{
+    public A()
+    {
+        super();                         //"super" calls its parent class
+        System.out.println("in A");      //"this" calls the other method in same class
+    }
+    
+    public A(int n)
+    {
+        super();
+        System.out.println("in A int");
+    }
+}
+
+class B extends A
+{
+    public B()
+    {
+        super();
+        System.out.println("in B");
+    }
+    
+    public B(int n)
+    {
+        super(n);
+        System.out.println("in B int");
+    }
+}
+
+public class ThisAAndSuperMethod
+{
+    public static void main(String args[])
+    {
+        B obj = new B(5);
+    }
+}
